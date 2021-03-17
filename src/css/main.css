@@ -1,0 +1,132 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after {
+  content: '';
+  content: none; }
+
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.full-width {
+  width: 100%;
+  margin: 0 auto; }
+
+.pull-left {
+  float: left; }
+
+.pull-right {
+  float: right; }
+
+.text-left {
+  text-align: left; }
+
+.text-center {
+  text-align: center; }
+
+.text-right {
+  text-align: right; }
+
+.text-lowercase {
+  text-transform: lowercase; }
+
+.text-uppercase {
+  text-transform: uppercase; }
+
+.text-capitalize {
+  text-transform: capitalize; }
+
+.vertical-top {
+  vertical-align: top; }
+
+.vertical-middle {
+  vertical-align: middle; }
+
+.vertical-bottom {
+  vertical-align: bottom; }
+
+.main__center {
+  width: 600px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #0A0A0A;
+  font-family: 'Arial', sans-serif; }
+
+.header {
+  width: 600px;
+  height: 200px; }
+
+.footer {
+  height: 80px; }
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 20px; }
+
+p {
+  font-size: 16px;
+  line-height: 20px; }
+
+a {
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+  text-decoration-line: none; }
+
+.content {
+  width: 600px;
+  margin: 20px auto; }
+
+.text {
+  padding-bottom: 20px; }
+
+.main__title {
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #006DF0; }
+
+.button {
+  border-radius: 8px;
+  text-align: center;
+  background-color: #FFFFFF;
+  width: 240px;
+  padding-top: 12.5px;
+  padding-bottom: 12.5px;
+  margin: 0 auto; }
+
+.count {
+  font-weight: bold;
+  font-size: 31px;
+  line-height: 40px;
+  color: #006DF0;
+  padding-right: 17px; }
+
+.step-text {
+  vertical-align: middle;
+  font-size: 16px;
+  line-height: 20px; }
